@@ -1,0 +1,139 @@
+Sat, 01 Apr 2023 08:44:52 ERROR    Não foi possível salvar o formulário.
+Missing value for phone.
+Sat, 01 Apr 2023 08:45:12 ERROR    Não foi possível salvar o formulário.
+Missing value for phone.
+Sat, 01 Apr 2023 08:47:53 ERROR    Não foi possível salvar o formulário.
+Missing value for phone.
+Sat, 01 Apr 2023 08:48:24 ERROR    Não foi possível salvar o formulário.
+MESSAGEMissing value for phone.
+Sat, 01 Apr 2023 08:48:32 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Missing value for phone.
+Sat, 01 Apr 2023 08:49:09 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Missing value for phone.
+Sat, 01 Apr 2023 08:49:28 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Missing value for phone.
+Sat, 01 Apr 2023 08:49:53 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Missing value for phone.
+Sat, 01 Apr 2023 08:50:26 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Missing value for phone.
+Sat, 01 Apr 2023 08:52:49 ERROR    Não foi possível salvar o formulário.
+MESSAGE: cannot access local variable 'form' where it is not associated with a value
+Sat, 01 Apr 2023 08:53:16 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:54:16 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:54:55 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:55:14 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:56:49 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:58:30 ERROR    Não foi possível salvar o formulário.
+MESSAGE: cannot access local variable 'form' where it is not associated with a value
+Sat, 01 Apr 2023 08:58:39 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:58:56 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:59:27 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:59:33 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 08:59:41 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:03:22 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:07:23 ERROR    Não foi possível salvar o formulário.
+MESSAGE: FormResponse.to_form() takes 0 positional arguments but 1 was given
+Sat, 01 Apr 2023 09:07:51 ERROR    Não foi possível salvar o formulário.
+MESSAGE: FormResponse.to_form() takes 3 positional arguments but 4 were given
+Sat, 01 Apr 2023 09:08:04 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:09:12 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'dict' object has no attribute 'name_surname'
+Sat, 01 Apr 2023 09:10:15 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:10:37 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'phone'
+Sat, 01 Apr 2023 09:12:06 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'phone'
+Sat, 01 Apr 2023 09:13:14 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:15:01 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:15:22 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:15:51 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'NoneType' object does not support item assignment
+Sat, 01 Apr 2023 09:18:35 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'Form' object is not iterable
+Sat, 01 Apr 2023 09:19:59 ERROR    Não foi possível salvar o formulário.
+MESSAGE: null value in column "name_surnme" of relation "form" violates not-null constraint
+DETAIL:  Failing row contains (1, null, null, null).
+
+Sat, 01 Apr 2023 09:20:08 ERROR    Não foi possível salvar o formulário.
+MESSAGE: 'Form' object is not iterable
+Sat, 01 Apr 2023 09:22:11 ERROR    Não foi possível salvar o formulário.
+MESSAGE: column "name_surname" of relation "form" does not exist
+LINE 1: INSERT INTO "form" ("name_surname", "email", "phone") VALUES...
+                            ^
+
+Sat, 01 Apr 2023 09:22:45 ERROR    Não foi possível salvar o formulário.
+MESSAGE: column "name_surname" of relation "form" does not exist
+LINE 1: INSERT INTO "form" ("name_surname", "email", "phone") VALUES...
+                            ^
+
+Sat, 01 Apr 2023 09:26:14 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Model.create() takes 1 positional argument but 2 were given
+Sat, 01 Apr 2023 09:30:08 ERROR    Não foi possível salvar o formulário.
+MESSAGE: column "name_surname" of relation "form" does not exist
+LINE 1: INSERT INTO "form" ("name_surname", "email", "phone") VALUES...
+                            ^
+
+Sat, 01 Apr 2023 09:32:20 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Model.create() takes 1 positional argument but 2 were given
+Sat, 01 Apr 2023 09:32:47 ERROR    Não foi possível salvar o formulário.
+MESSAGE: Model.create() takes 1 positional argument but 2 were given
+Sat, 01 Apr 2023 09:32:56 INFO     Formulário salvo com sucesso!
+Sat, 01 Apr 2023 09:33:24 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:39:15 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:39:49 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:41:48 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:42:44 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:43:03 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:43:11 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:43:48 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:44:24 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:47:21 ERROR    Não foi possível salvar o formulário.
+MESSAGE: duplicate key value violates unique constraint "form_email"
+DETAIL:  Key (email)=(jobson@mail.com) already exists.
+
+Sat, 01 Apr 2023 09:48:07 INFO     Formulário salvo com sucesso!
+Sat, 01 Apr 2023 09:56:20 INFO     Formulário salvo com sucesso!
+Sat, 01 Apr 2023 09:59:31 INFO     Formulário salvo com sucesso!
