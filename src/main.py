@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from peewee import *
-from models.form import Form, FormResponse
+from src.models.form import Form, FormResponse
 import logging, datetime
 
 app = FastAPI()
